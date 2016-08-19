@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListViewSolutions.iml" filepath="$PROJECT_DIR$/ListViewSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonlistviewadapter/commonlistviewadapter.iml" filepath="$PROJECT_DIR$/commonlistviewadapter/commonlistviewadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonrecyclerviewadpater/commonrecyclerviewadpater.iml" filepath="$PROJECT_DIR$/commonrecyclerviewadpater/commonrecyclerviewadpater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewanimatorhelper/recyclerviewanimatorhelper.iml" filepath="$PROJECT_DIR$/recyclerviewanimatorhelper/recyclerviewanimatorhelper.iml" />
+    </modules>
+  </component>
+</project>
